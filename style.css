@@ -1,0 +1,16 @@
+
+/* Cactus Classical Serif：典雅襯線字體 */
+.cactus-classical-serif-regular {
+  font-family: "Cactus Classical Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Edu QLD Hand：手寫風格字體 */
+.edu-qld-hand {
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
